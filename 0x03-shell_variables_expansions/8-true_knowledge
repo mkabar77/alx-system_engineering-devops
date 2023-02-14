@@ -1,0 +1,2 @@
+#!/bin/bash
+export TRUEKNOWLEDGE=printf "% -2f \n" $128
